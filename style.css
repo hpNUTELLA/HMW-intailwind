@@ -1,0 +1,9 @@
+.link-nav::after   {
+    content: '';
+    background-color: #000;
+    width: 3px;
+    height: 20px;
+    display: block;
+    margin-left: 53px;
+    margin-top: -23px;
+}
